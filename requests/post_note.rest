@@ -1,0 +1,7 @@
+POST http://localhost:3001/note/api/notes
+Content-Type: application/json
+
+{
+  "content": "Aprender practicando es bueno, y mas con midudev",
+  "important": true
+}
